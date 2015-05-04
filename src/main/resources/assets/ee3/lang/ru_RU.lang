@@ -1,0 +1,181 @@
+# Translated by Smart_M
+# Переведено Smart_M
+# Configuration
+general.sync.threshold.label=Порог Синхронизации
+general.sync.threshold.comment=Количество секунд, которые игрок должен прождать для синхронизации его значений EMC с сервером. 
+
+general.sound.soundMode.label=Звуки
+general.sound.soundMode.comment='Все' проигрывает звуки мода от всех игроков, 'Свое' проигрывает звуки только от вас, и 'Ничего' выключает все звуки мода.
+
+general.abilities.onlyLoadFile.label=Only load Abilities file
+general.abilities.onlyLoadFile.comment=Setting this to true means that Abilities are initially only loaded from file, rather than from both file and from other mods
+
+general.energyvalues.regenerateEnergyValuesWhen.label=Regenerate EnergyValues
+general.energyvalues.regenerateEnergyValuesWhen.comment=When to regenerate EnergyValues. Options are "When Mods Change" (when mods are added, removed, or updated) or "Never" (only generate the first time).
+
+# Keys
+key.categories.ee3=Равноценный Обмен 3
+key.charge=Заряд
+key.extra=Экстра
+key.release=Выпустить
+key.toggle=Сменить
+
+# Creative Tabs
+itemGroup.ee3=Равноценный Обмен 3
+
+# Items
+item.ee3:alchemicalBag.name=Алихимическая Сумка
+item.ee3:alchemicalDust.ash.name=Пепел
+item.ee3:alchemicalDust.verdant.name=Вердантная Пыль
+item.ee3:alchemicalDust.azure.name=Азурная Пыль
+item.ee3:alchemicalDust.minium.name=Пыль Миниума
+item.ee3:alchemicalFuel.alchemicalCoal.name=Алхимический Уголь  
+item.ee3:alchemicalFuel.mobiusFuel.name=Топливо Мёбиуса
+item.ee3:alchemicalFuel.aeternalisFuel.name=Вековечное Топливо
+item.ee3:chalk.name=Мел
+item.ee3:diviningRod.name=Палка-Разделялка [WIP]
+item.ee3:shardMinium.name=Кусочек Миниума
+item.ee3:stoneInert.name=Инертный Камушек
+item.ee3:stoneMinium.name=Миниумный Камушек [WIP]
+item.ee3:stonePhilosophers.name=Филосовский Камушек [WIP]
+item.ee3:alchemicalUpgrade.verdant.name=Вердантное Улучшени [WIP]
+item.ee3:alchemicalUpgrade.azure.name=Азурное Улучшение [WIP]
+item.ee3:alchemicalUpgrade.minium.name=Улучшение Миниума [WIP]
+item.ee3:alchemicalTome.name=Том Алхимических Познаний
+item.ee3:matterProto.name=Прото-Материя [WIP]
+item.ee3:matterDark.name=Темная Материя [WIP]
+item.ee3:matterOmni.name=Омни-Материя [WIP]
+item.ee3:matterCorporeal.name=Вещественная Материя [WIP]
+item.ee3:matterKinetic.name=Кинетическая Материя [WIP]
+item.ee3:matterTemporal.name=Временная Материя [WIP]
+item.ee3:matterEssentia.name=Эссенционная Материя [WIP]
+item.ee3:matterAmorphous.name=Аморфная Материя [WIP]
+item.ee3:matterVoid.name=Пустотная Материя [WIP]
+item.ee3:gemBlack.name=Темный Самоцвет [WIP]
+item.ee3:gemBlue.name=Синий Самоцвет [WIP]
+item.ee3:gemGreen.name=Зеленый Самоцвет [WIP]
+item.ee3:gemGrey.name=Серый Самоцвет [WIP]
+item.ee3:gemPurple.name=Пурпурный Самоцвет [WIP]
+item.ee3:gemRed.name=Красный Самоцвет [WIP]
+item.ee3:gemYellow.name=Желтый Самоцвет [WIP]
+item.ee3:lootBall.name=Шар с Лутом [WIP]
+item.ee3:knowledgeScroll.name=Свиток Алхимических Познаний [WIP]
+item.ee3:potionLethe.name=Зелье Леты [WIP]
+
+# Tools
+item.ee3:shovelDarkMatter.name=Лопата из Темной Материи [WIP]
+item.ee3:pickAxeDarkMatter.name=Кирка из Темной Материи [WIP]
+item.ee3:hammerDarkMatter.name=Молот из Темной Материи [WIP]
+item.ee3:axeDarkMatter.name=Топор из Темной Материи [WIP]
+item.ee3:hoeDarkMatter.name=Мотыга из Темной Материи [WIP]
+item.ee3:fishingRodDarkMatter.name=Удочка из Темной Материи [WIP]
+item.ee3:shearsDarkMatter.name=Ножницы из Темной Материи [WIP]
+
+# Weapons
+item.ee3:bowDarkMatter.name=Лук из Темной Материи [WIP]
+item.ee3:arrowDarkMatter.name=Стрела из Темной Материи [WIP]
+item.ee3:swordDarkMatter.name=Меч из Темной Материи [WIP]
+
+# Blocks
+tile.ee3:alchemicalChest.name=Алхимический Сундук
+tile.ee3:alchemicalFuelBlock.alchemicalCoal.name=Блок из Алхимического Угля
+tile.ee3:alchemicalFuelBlock.mobiusFuel.name=Блок из Топлива Мёбиуса
+tile.ee3:alchemicalFuelBlock.aeternalisFuel.name=Блок из Вековечного Топлива
+tile.ee3:aludel.name=База Алюделя 
+tile.ee3:calcinator.name=Кальцинатор
+tile.ee3:chalk.name=Блок Мела
+tile.ee3:glassBell.name=Стекляный Колокол
+tile.ee3:researchStation.name=Станция Исследований
+tile.ee3:augmentationTable.name=Стол Улучшений [WIP]
+tile.ee3:transmutationSquare.name=Трансмутационный Квадрат [WIP]
+tile.ee3:ashInfusedStone.name=Заряженный Пеплом Камень
+tile.ee3:ashInfusedStoneSlab.name=Ступенька из Заряженного Пеплом Каменя
+tile.ee3:alchemyArray.name=Алхимический Массив
+tile.ee3:dummyArray.name=Алхимический Массив
+tile.ee3:transmutationTablet.name=Планшет для Трансмутации
+
+# Fluids
+fluid.ee3.milk=Молочко
+
+# Alchemy Arrays
+arrays.ee3:basicAlchemyArray=Базовый Алхимический Массив [WIP]
+arrays.ee3:transmutation=Трансмутационный Алхимический Массив [WIP]
+
+# GUIs
+container.ee3:alchemicalBag=Сумка
+container.ee3:alchemicalChest=Алхимический Сундук
+container.ee3:aludel=Алюдель  
+container.ee3:calcinator=Кальцинатор
+container.ee3:glassBell=Стеклянный Колокол
+container.ee3:researchStation=Станция Исследований
+container.ee3:augmentationTable=Стол Улучшений [WIP]
+container.ee3:alchemicalTome=Том Алхимических Познаний
+container.ee3:alchemicalTome.noTransmutationsKnown=Ничего не известно
+container.ee3:transmutationAlchemyArray=Трансмутационный Квадрат [WIP]
+
+# NEI
+gui.nei.ee3:calcination=Кальцинирование
+gui.nei.ee3:calcination.tooltip.1=Энершие для кальцинирования
+gui.nei.ee3:calcination.tooltip.2=Из %s в %s
+gui.nei.ee3:aludel=Сублимация
+
+# Commands
+commands.ee3.usage=/ee3
+commands.ee3.player-not-found.error=Player with name %s was not found on the server
+commands.ee3.invalid-nbt-tag.error=Data tag parsing failed: %s
+commands.ee3.no-item.error=No current item
+commands.ee3.set-energy-value.usage=/ee3 set-energy-value <pre> <item> <value> [data] [dataTag] OR /ee3 set-energy-value <post> <item> <value> [data] [dataTag]
+commands.ee3.set-energy-value.success=%s set a %s EnergyValue of %s to %s
+commands.ee3.set-energy-value-current-item.usage=/ee3 set-energy-value-current-item <pre> <value> OR /ee3 set-energy-value-current-item <post> <value>
+commands.ee3.set-energy-value-current-item.success=%s set a %s EnergyValue of %s to %s
+commands.ee3.sync-energy-values.usage=/ee3 sync-energy-values
+commands.ee3.sync-energy-values.success=Successfully synchronized energy values with the server
+commands.ee3.sync-energy-values.denied=Please wait %s more seconds and try again
+commands.ee3.player-learn-item.usage=/ee3 player-learn-item <playername> <item> <data> [dataTag]
+commands.ee3.player-learn-item.success=%s taught %s how to transmute %s
+commands.ee3.player-learn-current-item.usage=/ee3 player-learn-current-item <playername>
+commands.ee3.player-learn-current-item.success=%s taught %s how to transmute %s
+commands.ee3.player-forget-everything.usage=/ee3 player-forget-everything <playername>
+commands.ee3.player-forget-everything.success=%s made %s forget how to transmute everything
+commands.ee3.player-forget-item.usage=/ee3 player-forget-item <playername> <item> <data> [dataTag]
+commands.ee3.player-forget-item.success=%s made %s forget how to transmute %s
+commands.ee3.player-forget-current-item.usage=/ee3 player-forget-current-item <playername>
+commands.ee3.player-forget-current-item.success=%s made %s forget how to transmute %s
+commands.ee3.template-learn-everything.usage=/ee3 template-learn-everything
+commands.ee3.template-learn-everything.success=%s taught the knowledge template how to transmute everything
+commands.ee3.template-learn-item.usage=/ee3 template-learn-item <item> <data> [dataTag]
+commands.ee3.template-learn-item.success=%s taught the knowledge template how to transmute %s
+commands.ee3.template-learn-current-item.usage=/ee3 template-learn-current-item
+commands.ee3.template-learn-current-item.success=%s taught the knowledge template how to transmute %s
+commands.ee3.template-forget-everything.usage=/ee3 template-forget-everything
+commands.ee3.template-forget-everything.success=%s made the knowledge template forget how to transmute everything
+commands.ee3.template-forget-item.usage=/ee3 template-forget-item <item> <data> [dataTag]
+commands.ee3.template-forget-item.success=%s made the knowledge template forget how to transmute %s
+commands.ee3.template-forget-current-item.usage=/ee3 template-forget-current-item
+commands.ee3.template-forget-current-item.success=%s made the knowledge template forget how to transmute %s
+commands.ee3.set-item-learnable.usage=/ee3 set-item-learnable <item> <data> [dataTag]
+commands.ee3.set-item-learnable.success=%s set %s as learnable for transmutations
+commands.ee3.set-item-not-learnable.usage=/ee3 set-item-not-learnable <item> <data> [dataTag]
+commands.ee3.set-item-not-learnable.success=%s set %s as not learnable for transmutations
+commands.ee3.set-item-recoverable.usage=/ee3 set-item-recoverable <item> <data> [dataTag]
+commands.ee3.set-item-recoverable.success=%s set %s as being able to have its energy value recovered
+commands.ee3.set-item-not-recoverable.usage=/ee3 set-item-not-recoverable <item> <data> [dataTag]
+commands.ee3.set-item-not-recoverable.success=%s set %s as not being able to have its energy value recovered
+commands.ee3.run-tests.usage=/ee3 run-tests <file-name>
+commands.ee3.run-tests.success=Executed test file '%s', check server log for results
+commands.ee3.run-tests.notfound=Test file '%s' was not found!
+
+# Tooltips
+tooltip.ee3:belongsTo=Принадлежит %s
+tooltip.ee3:belongsToNoOne=Никому не принадлежит
+tooltip.ee3:upgradesPrefix=Upgrades (Alchemical) Chests
+tooltip.ee3:small=Small
+tooltip.ee3:medium=Medium
+tooltip.ee3:large=Large
+tooltip.ee3:sortByDisplayName=Sort by Display Name
+tooltip.ee3:sortByEnergyValue=Sort by Energy Value
+tooltip.ee3:sortByID=Sort by ID
+
+#Misc
+misc.ee3:owner-set-to-self=You are now the owner of %s
+misc.ee3:energy-value=Energy Value
